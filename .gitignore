@@ -1,0 +1,7 @@
+**/.pytest_cache/*
+**/dct_venv/*
+*.sqlite3
+**/__pycache__/*
+**/.idea/*
+*.pyc
+*.DS_Store
